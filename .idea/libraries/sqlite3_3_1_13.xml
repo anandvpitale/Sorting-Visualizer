@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="sqlite3-3.1.13">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../sqlite3-3.1.13.jar!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../sqlite3-3.1.13.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../sqlite3-3.1.13.jar!/" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="jar://$PROJECT_DIR$/../sqlite3-3.1.13.jar!/" />
+    </NATIVE>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../sqlite3-3.1.13.jar!/" />
+    </SOURCES>
+    <jarDirectory url="jar://$PROJECT_DIR$/../sqlite3-3.1.13.jar!/" recursive="false" />
+    <jarDirectory url="jar://$PROJECT_DIR$/../sqlite3-3.1.13.jar!/" recursive="false" type="SOURCES" />
+  </library>
+</component>
